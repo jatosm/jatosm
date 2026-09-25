@@ -4,8 +4,6 @@
 
 <strong>C++ Developer</strong>
 
-<br/>
-
 <h3>🧠 Languages</h3>
 
 <strong>C++</strong>
@@ -13,8 +11,6 @@
 <strong>React</strong>
 <br/>
 <strong>Tailwind CSS</strong>
-
-<br/>
 
 <div align="center">
 
@@ -25,8 +21,6 @@
 </a>
 
 </div>
-
-<br/>
 
 <h3>🔗 Find me here</h3>
 
