@@ -2,7 +2,7 @@
 
 <h3>Hey, I'm Jatos 👋</h3>
 
-if people ask me what xref is i automatically get doxxed, aswell everytime im doing a delay its because of error 502
+if people ask me what xref is i automatically get ddosed, aswell everytime im doing a delay its because of error 502
 
 <strong>C++ Developer</strong>
 
