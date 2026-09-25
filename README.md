@@ -9,6 +9,10 @@
 <h3>🧠 Languages</h3>
 
 <strong>C++</strong>
+<br/>
+<strong>React</strong>
+<br/>
+<strong>Tailwind CSS</strong>
 
 <br/>
 
