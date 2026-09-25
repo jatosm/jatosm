@@ -2,6 +2,8 @@
 
 <h3>Hey, I'm Jatos 👋</h3>
 
+if people ask me what xref is i automatically get doxxed, aswell everytime im doing a delay its because of error 502
+
 <strong>C++ Developer</strong>
 
 <h3>🧠 Languages</h3>
@@ -11,16 +13,6 @@
 <strong>React</strong>
 <br/>
 <strong>Tailwind CSS</strong>
-
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <picture>
-    <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/puppy.webp" alt="" width="300" />
-  </picture>
-</a>
-
-</div>
 
 <h3>🔗 Find me here</h3>
 
@@ -41,11 +33,5 @@
   <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/globe-light.svg" alt="" width="20" />
 </picture>
 <code>jatos.lol</code>
-
-<h3>⚠️ Heads up</h3>
-
-If I ever say I'm delaying something, it's because of a <strong>502 error</strong> — not because I ghosted.
-
-And please don't ask me publicly what <strong>XRef</strong> is. I get doxxed automatically.
 
 </div>
