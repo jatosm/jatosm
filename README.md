@@ -42,4 +42,10 @@
 </picture>
 <code>jatos.lol</code>
 
+<h3>⚠️ Heads up</h3>
+
+If I ever say I'm delaying something, it's because of a <strong>502 error</strong> — not because I ghosted.
+
+And please don't ask me publicly what <strong>XRef</strong> is. I get doxxed automatically.
+
 </div>
