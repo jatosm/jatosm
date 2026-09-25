@@ -16,6 +16,18 @@
 
 <br/>
 
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <picture>
+    <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/puppy.webp" alt="" width="300" />
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
 <h3>🔗 Find me here</h3>
 
 <picture>
@@ -35,11 +47,5 @@
   <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/globe-light.svg" alt="" width="20" />
 </picture>
 <code>jatos.lol</code>
-
-<br/>
-
-<picture>
-  <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/puppy.webp" alt="" width="220" />
-</picture>
 
 </div>
