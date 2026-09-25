@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h3>Hey, I'm Jatos 👋</h3>
 
@@ -14,25 +14,22 @@
 
 <h3>🔗 Find me here</h3>
 
-<a href="https://github.com/jatosm">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/github-dark.svg" />
-    <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/github-light.svg" alt="GitHub" width="22" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://discord.gg/thenwefuckin">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/discord-dark.svg" />
-    <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/discord-light.svg" alt="Discord" width="22" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://jatos.lol/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/globe-dark.svg" />
-    <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/globe-light.svg" alt="Website" width="22" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/github-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/github-light.svg" alt="" width="20" />
+</picture>
+<code>github.com/jatosm</code>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/discord-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/discord-light.svg" alt="" width="20" />
+</picture>
+<code>discord.gg/thenwefuckin</code>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/globe-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/icons/globe-light.svg" alt="" width="20" />
+</picture>
+<code>jatos.lol</code>
 
 </div>
