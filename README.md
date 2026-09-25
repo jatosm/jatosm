@@ -36,4 +36,10 @@
 </picture>
 <code>jatos.lol</code>
 
+<br/>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/jatosm/jatosm/main/assets/puppy.webp" alt="" width="220" />
+</picture>
+
 </div>
